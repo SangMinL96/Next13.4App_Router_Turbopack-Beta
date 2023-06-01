@@ -1,6 +1,6 @@
 
 
-## 넥스트13-4 Fetch를 이용한 새로운 데이터패치 아키텍처
+## 넥스트13-4 App router & Fetch를 이용한 새로운 데이터패치 아키텍처
 https://nextjs.org/docs/app/building-your-application/data-fetching/fetching
 
 
